@@ -43,7 +43,7 @@
 
 
 
-***注：解决git SSL certificate problem: unable to get local issuer certificate保存的问题***
+## ***注：解决git SSL certificate problem: unable to get local issuer certificate保存的问题***
 
 > 这个问题是由于没有配置信任的服务器HTTPS验证。默认，[cURL](https://so.csdn.net/so/search?q=cURL&spm=1001.2101.3001.7020)被设为不信任任何CAs，就是说，它不信任任何服务器验证。
 >
